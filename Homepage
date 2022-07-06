@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firefly</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+     <link href="style3.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+     <div class="topnav">
+  <a class="active" href="https://bluebubble.neocities.org/Firefly/Home.html">Home</a>
+  <a href="#profiles">Profiles</a>
+  <a href="#Groups">Groups</a>
+  <a href="#aboutandchangelog">About and changelog</a>
+   <a href="https://bluebubble.neocities.org/Firefly/Signup.html">Signup</a>
+   <a href="#signin">Login</a>
+</div>
+<div class="header">
+  <h1>Firefly</h1>
+  <p>This website is made for people who are bored, And want to reach out to the public, Get a team? Yes. Show creations? Yes! Even get famous Yes, Yes.! And yes!</p>
+  <div class="bgimg">
+  <div class="topleft">
+  </div>
+  
+  <div class="middle">
+    <h1>COMING SOON</h1>
+    <hr>
+  </div>
+  <div class="bottomleft">
+    <p>This will come sometime later,</p>
+  </div>
+</div>
+</div>
+<h3></h3><!-- Start BawkBox Code--><script data-sil-id="62c48af9e431f8001edd3259">var loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == "file:" ? "http://" : "//"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName("script"); e=e[e.length-1]; var n = d.createElement(t); if (t=="script") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m("script", { src: p + "bawkbox.com/widget/simple-poll/62c48af9e431f8001edd3259?page=" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); setTimeOut(function(){ document.addEventListener('DOMContentLoaded', loadWidget); }, 3000) } else { loadWidget() } </script><div class="sil-widget-simple-poll sil-widget" id="sil-widget-62c48af9e431f8001edd3259"><a href="//bawkbox.com/install/simple-poll">Simple Polls</a></div><!-- End BawkBox Code-->
+  </body>
+</html>
